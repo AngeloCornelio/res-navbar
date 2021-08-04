@@ -1,0 +1,24 @@
+{
+  "name": "res-navbar",
+  "version": "1.0.0",
+  "description": "A responsive navbar to showcase my web development skills on GitHub",
+  "main": "app.js",
+  "scripts": {
+    "test": "open index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngeloCornelio/res-navbar.git"
+  },
+  "keywords": [
+    "nav",
+    "navbar",
+    "responsive"
+  ],
+  "author": "Angelo Cornelio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngeloCornelio/res-navbar/issues"
+  },
+  "homepage": "https://github.com/AngeloCornelio/res-navbar#readme"
+}
