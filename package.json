@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/AngeloCornelio/res-navbar/issues"
   },
-  "homepage": "https://github.com/AngeloCornelio/res-navbar#readme"
+  "homepage": "https://github.com/AngeloCornelio/res-navbar#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
 }
