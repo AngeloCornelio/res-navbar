@@ -15,3 +15,7 @@ header {
     justify-content: space-between;
     flex-wrap: wrap;
 }
+
+.nav-top li {
+    display: inline;
+}
