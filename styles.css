@@ -27,13 +27,13 @@ header {
 
 .nav-top li {
     display: inline;
-    margin: 0.5em;
-    font-family: 'Open Sans', sans-serif;
 }
 
-.nav-center a {
+a {
     color: #5a6060;
     letter-spacing: 0.1em;
+    margin: 0.5em;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .logo {
@@ -49,6 +49,7 @@ header {
 .nav-right a {
     color: #69b0d0;
     font-size: 1.1em;
+    letter-spacing: 0;
 }
 
 .nav-right button.mobile {
