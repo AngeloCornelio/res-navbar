@@ -17,11 +17,22 @@ header {
 .nav-top {
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
+}
+
+.nav-top {
+    display: flex;
+    align-items: center;
 }
 
 .nav-top li {
     display: inline;
+    margin: 0.5em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav-center a {
+    color: #5a6060;
+    letter-spacing: 0.1em;
 }
 
 .logo {
