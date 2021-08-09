@@ -9,18 +9,19 @@ body, header, h1, div, ul, li, a, button {
     text-decoration: none;
 }
 
+body {
+    background-color: #f5f9fe;
+}
+
 header {
     box-shadow: 0px 5px 5px 1px rgba(0, 0, 0, 0.3);
     padding: 1em;
+    background-color: #fff;
 }
 
 .nav-top {
     display: flex;
     justify-content: space-between;
-}
-
-.nav-top {
-    display: flex;
     align-items: center;
 }
 
@@ -43,6 +44,18 @@ header {
 
 .logo-blue {
     color: #7fb5d7;
+}
+
+.nav-right a {
+    color: #69b0d0;
+    font-size: 1.1em;
+}
+
+.nav-right button.mobile {
+    color: #6aaad2;
+    border: none;
+    background-color: #fff;
+    font-size: 1.5em;
 }
 
 /* --- RESPONSIVE --- */
